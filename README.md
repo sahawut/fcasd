@@ -1,2 +1,2 @@
 # FCASD
-[Fox Chapel Area School District]([fcasd.edu](https://www.fcasd.edu/)
+[Fox Chapel Area School District](https://www.fcasd.edu)
